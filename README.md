@@ -15,7 +15,7 @@ https://wetrade-4b06f.web.app/
 6. Sorted News url to navigate and read through news for that specific company you have decided to invest in.
 7. Candle stick graph for professionals who can rely on other measures along like RSI, Bollinger bands and many more such micro-feature services for making decision along side taking our model prediction and news sentiment as parameter.
 
-With such comprehensive application we are giving users for free to be able to trade or learn how to trade.
+With such comprehensive application we are giving users opprtunity to trade or learn how to trade for free.
 
 # Tech Stack:
 1. Python
