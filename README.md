@@ -3,6 +3,9 @@ A complete end-to-end platform for stocks trading and utilizing stock price pred
 
 This is a web based application created on react.js and the backend has been implemented on flask. This project aims to give a central platform for users who are beginner and who are professionals for making trading decisions by buying or selling from our application itself. 
 
+# Link to application: 
+https://wetrade-4b06f.web.app/
+
 # Services offered by the application: 
 1. Real time trading, portfolio management.
 2. Statistical analysis to understand the data.
